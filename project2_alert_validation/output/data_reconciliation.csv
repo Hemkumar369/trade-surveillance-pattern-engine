@@ -1,0 +1,6 @@
+check,found,injected,match
+"missing_trades (filled order, no trade)",10,10,True
+qty_mismatches (order qty != trade qty),8,8,True
+duplicate_trades (repeated trade_id),5,5,True
+"orphan_trades (trade, no order)",0,0,True
+invalid_price_or_time,0,0,True

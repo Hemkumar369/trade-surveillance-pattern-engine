@@ -1,0 +1,7 @@
+version,pattern,alerts,true_pos,false_pos,false_neg,precision,recall,f1
+v1_loose,WASH_TRADE,25,12,13,0,0.48,1.0,0.649
+v1_loose,LAYERING_SPOOFING,12,12,0,0,1.0,1.0,1.0
+v1_loose,MARKING_THE_CLOSE,10,10,0,0,1.0,1.0,1.0
+v2_tuned,WASH_TRADE,12,12,0,0,1.0,1.0,1.0
+v2_tuned,LAYERING_SPOOFING,11,11,0,1,1.0,0.917,0.957
+v2_tuned,MARKING_THE_CLOSE,8,8,0,2,1.0,0.8,0.889
